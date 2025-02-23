@@ -1,0 +1,6 @@
+conda create -p venv python==3.12 -y
+conda activate venv/
+git init 
+git push -u origin main
+
+pip install -r requirments.txr

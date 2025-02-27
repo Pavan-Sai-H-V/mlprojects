@@ -1,4 +1,5 @@
 pandas
 numpy
 seaborn
--e . # used to call setup.py frfom here itself
+matplotlib
+#-e . # used to call setup.py frfom here itself

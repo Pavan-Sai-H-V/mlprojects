@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+statsmodels
 #-e . # used to call setup.py frfom here itself

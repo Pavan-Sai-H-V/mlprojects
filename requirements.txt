@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 statsmodels
+fuzzywuzzy
 #-e . # used to call setup.py frfom here itself

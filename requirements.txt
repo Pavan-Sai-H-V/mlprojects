@@ -7,4 +7,5 @@ catboost
 xgboost
 statsmodels
 fuzzywuzzy
+openpyxl
 #-e . # used to call setup.py frfom here itself

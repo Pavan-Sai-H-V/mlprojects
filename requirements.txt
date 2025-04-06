@@ -8,4 +8,13 @@ xgboost
 statsmodels
 fuzzywuzzy
 openpyxl
+selenium
+wordcloud
+nltk
+webdriver_manager
+msedge-selenium-tools 
+ChromeDriverManager
+transformers
+TensorFlow
+flask
 #-e . # used to call setup.py frfom here itself

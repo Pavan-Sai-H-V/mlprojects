@@ -17,4 +17,5 @@ ChromeDriverManager
 transformers
 TensorFlow
 flask
+dill
 #-e . # used to call setup.py frfom here itself
